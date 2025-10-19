@@ -1,0 +1,8 @@
+﻿  vcmpupdaterurl.cpp
+E:\c++\vcmpupdater\vcmpupdaterurl\vcmpupdaterurl.cpp(316,34): warning C4018: '>': signed/unsigned mismatch
+  Generating code
+  1 of 308 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  vcmpupdaterurl.vcxproj -> E:\c++\vcmpupdater\vcmpupdaterurl\Release\vcmpupdaterurl.exe
